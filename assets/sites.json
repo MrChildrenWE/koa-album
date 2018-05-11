@@ -2,9 +2,9 @@
     "title": "Albums",
     "des": "About the pohots.",
     "icon":"/favicon.png",
-    "copyright": "© 2018 Lemon",
-    "footer":"山水一程 三生有幸",
+    "copyright": "© 2018 京乐春水",
+    "footer":"生活不易 未来可期",
     "links":{
-        "github": "https://github.com/Lemonreds/koa-album"
+        "github": "https://github.com/MrChildrenWE/koa-album"
     }
 }
